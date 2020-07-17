@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["serde_bytes_repr"] = [{"text":"impl&lt;S:&nbsp;<a class=\"trait\" href=\"serde/ser/trait.Serializer.html\" title=\"trait serde::ser::Serializer\">Serializer</a>&gt; <a class=\"trait\" href=\"serde/ser/trait.Serializer.html\" title=\"trait serde::ser::Serializer\">Serializer</a> for <a class=\"struct\" href=\"serde_bytes_repr/struct.ByteFmtSerializer.html\" title=\"struct serde_bytes_repr::ByteFmtSerializer\">ByteFmtSerializer</a>&lt;S&gt;","synthetic":false,"types":["serde_bytes_repr::ByteFmtSerializer"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
